@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme 👋
+## Olá! Eu sou o Guilherme 👋
 <!--
 **guig3/guig3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
