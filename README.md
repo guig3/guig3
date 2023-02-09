@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Trabalho atualmente com projetos web
-- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href="https://www.escolaeducacaobr.com.br/" target="_blank">Escola Educação</a> 
-- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href="https://www.boanota.com.br" target="_blank">Boa Nota</a>
-- 🌐 Idealizador, desenvolvedor do site <a href="https://TubeMp3.net" target="_blank">Tube MP3</a>
+- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href="https://www.escolaeducacaobr.com.br/" target="_blank" rel="noopener">Escola Educação</a> 
+- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href="https://www.boanota.com.br" target="_blank" rel="noopener">Boa Nota</a>
+- 🌐 Idealizador, desenvolvedor do site <a href="https://TubeMp3.net" target="_blank" rel="noopener">Tube MP3</a>
 - 👨‍🎓 Graduando em Analise e Desenvolvimento de Sistemas
 - ❤️ Apaixonado por tecnologia
 <!-- ⚡ Fun fact: ... -->
