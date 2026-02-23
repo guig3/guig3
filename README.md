@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas na web. Sou o idealizador e mantenedor de plataformas focadas em educação e ferramentas de utilidade pública.
+Formado em **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas na web. Sou o idealizador e mantenedor de plataformas focadas em educação e ferramentas de utilidade pública.
 
 ---
 
@@ -49,7 +49,7 @@ Atuo no desenvolvimento, manutenção e deploy de diversos projetos web, desde p
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [linkedin.com/in/guilhermegoulartgomes](https://linkedin.com/in/guilhermegoulartgomeso) *(substitua pelo seu link)*
+- **LinkedIn:** [linkedin.com/in/guilhermegoulartgomes](https://linkedin.com/in/guilhermegoulartgomeso) 
 - **Instagram:** [@guibft](https://instagram.com/guibft)
 - **Instagram:** [@dig3solutions](https://instagram.com/dig3solutions)
 
