@@ -24,6 +24,29 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixona
 </p>
 
 ---
+## 🌐 Projetos em Produção (Portfolio)
+
+Atuo no desenvolvimento, manutenção e deploy de diversos projetos web, desde portais de conteúdo até sites corporativos e soluções de e-commerce/serviços.
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| **Boa Nota** | Plataforma de apoio acadêmico | [Acessar](https://boanota.com.br) |
+| **Toda Matéria BR** | Portal de conteúdos pedagógicos | [Acessar](https://www.todamateriabr.com.br) |
+| **Confianzza Soluções** | Site corporativo e serviços | [Acessar](https://www.confianzzasolucoes.com.br) |
+| **Monis Hortifruti** | Catálogo de produtos | [Acessar](https://monishortifruti.com.br) |
+| **JR Sprinters** | Outsourcing de Impressão e TI | [Acessar](https://jrsprinters.com.br) |
+| **BitBubbles** | Soluções digitais e tecnologia | [Acessar](https://bitbubbles.com.br) |
+| **Scobe** | Automotivas, Residenciais e Industriais | [Acessar](https://www.scobe.com.br) |
+
+---
+
+### 💻 Stack Técnica utilizada nestes projetos:
+- **Frontend:** HTML5, CSS3 (Bootstrap/Tailwind), JavaScript.
+- **Backend:** PHP / Node.js.
+- **Database:** MySQL.
+- **Infra:** Gestão de domínios, SSL, Hospedagem e SEO.
+
+---
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [linkedin.com/in/guilhermegoulartgomes](https://linkedin.com/in/guilhermegoulartgomeso) *(substitua pelo seu link)*
