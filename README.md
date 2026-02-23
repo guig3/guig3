@@ -49,7 +49,7 @@ Atuo no desenvolvimento, manutenção e deploy de diversos projetos web, desde p
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [linkedin.com/in/guilhermegoulartgomes](https://linkedin.com/in/guilhermegoulartgomeso) 
+- **LinkedIn:** [linkedin.com/in/guilhermegoulartgomes](https://linkedin.com/in/guilhermegoulartgomes) 
 - **Instagram:** [@guibft](https://instagram.com/guibft)
 - **Instagram:** [@dig3solutions](https://instagram.com/dig3solutions)
 
